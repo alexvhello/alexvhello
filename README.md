@@ -1,5 +1,13 @@
-### Hi there 👋
+<h2>Hi there 👋</h2> 
 
+I'm Alex Villao an Ecuadorian data analyst. I have created projects from scratch using Microsoft Excel, IBM SPSS, Python programming language, Power BI, Google Analytics and more. I like to focus on the creation of value, thus generating positive results for companies or organizations.
+
+<h2>🎈 Personal Projects</h2>
+Some of my personal projects are:
+<ul>
+  <li>🎓<b>Application of data mining techniques to predict the academic performance of the students:</b> Creation of a machine learning classification model to predict the academic performance of students in a private institution.</li>
+  <li>📊<b>Predicting Customer Abandonment Using Logistic Regression:</b> Creation of a predictive classification model, through logistic regression, of the customer abandonment rate.</li>
+</ul>
 <!--
 **alexvhello/alexvhello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
