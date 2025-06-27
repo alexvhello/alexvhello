@@ -1,13 +1,15 @@
 <h2>Hi there 👋</h2> 
 <p>
-I'm Alex Villao an Ecuadorian data analyst. I have created projects from scratch using Microsoft Excel, IBM SPSS, Python programming language, Power BI, Google Analytics and more. I like to focus on the creation of value, thus generating positive results for companies or organizations.
+I'm **Alex Villao**, an Ecuadorian data analyst passionate about transforming data into strategic insights. I specialize in building end-to-end analytics and machine learning solutions using Microsoft Fabric, Azure, Python, Power BI, and other cloud-first technologies. I focus on creating **real value** through data—enhancing business performance, automating decision-making, and enabling predictive capabilities for companies and institutions.
 </p>
 
-<h2>🎈 Personal Projects</h2>
+<h2>🎈 Featured Projects</h2>
 <p>Some of my personal projects are:</p>
 <ul>
-  <li>🎓<b>Application of data mining techniques to predict the academic performance of the students:</b> Creation of a machine learning classification model to predict the academic performance of students in a private institution.</li>
-  <li>📊<b>Predicting Customer Abandonment Using Logistic Regression:</b> Creation of a predictive classification model, through logistic regression, of the customer abandonment rate.</li>
+  <li>🎓<b>Predicting Student Academic performance:</b> Developed a machine learning classification model to predict student outcomes using data mining techniques in a private academic institution.</li>
+  <li>📉<b>Customer Churn Prediction:</b> Built a predictive logistic regression model to identify and reduce customer abandonment risk for a service-based business.</li>
+  <li>📊<b>End-to-End Machine Learning with Microsoft Fabric (In Progress):</b> Architecting a full ML pipeline using Dataflows, Lakehouse, Notebooks, Power BI, and deployment within Microsoft Fabric.</li>
+  
 </ul>
 
 <h2>🔥 Technologies</h2>
@@ -22,10 +24,7 @@ I'm Alex Villao an Ecuadorian data analyst. I have created projects from scratch
     <b>Data analysis and visualization:</b> Power BI, Tableau, Looker Studio, GA4 and more
   </li>
   <li>
-    <b>Big data:</b> Apache Spark
-  </li>
-  <li>
-    <b>Cloud Computing Services:</b> Microsoft Azure (Data Factory, Databricks, Data Lake and more)
+    <b>Cloud and Big Data:</b> Azure Data Factory, Microsoft Fabric, Databricks, Apache Spark, and more
   </li>
 </ul>
 
