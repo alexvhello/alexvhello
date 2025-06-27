@@ -15,7 +15,7 @@ I'm **Alex Villao**, an Ecuadorian data analyst passionate about transforming da
 <h2>🔥 Technologies</h2>
 <ul>
   <li>
-    <b>Programming languages:</b>Python, R
+    <b>Programming languages:</b> Python, R
   </li>
   <li>
     <b>Database Management Systems:</b> MySQL, PostgreSQL, MongoDB and more
