@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2> 
 <p>
-I'm **Alex Villao**, an Ecuadorian data analyst passionate about transforming data into strategic insights. I specialize in building end-to-end analytics and machine learning solutions using Microsoft Fabric, Azure, Python, Power BI, and other cloud-first technologies. I focus on creating **real value** through data—enhancing business performance, automating decision-making, and enabling predictive capabilities for companies and institutions.
+I'm <b>Alex Villao</b>, an Ecuadorian data analyst passionate about transforming data into strategic insights. I specialize in building end-to-end analytics and machine learning solutions using Microsoft Fabric, Azure, Python, Power BI, and other cloud-first technologies. I focus on creating <b>real value</b> through data—enhancing business performance, automating decision-making, and enabling predictive capabilities for companies and institutions.
 </p>
 
 <h2>🎈 Featured Projects</h2>
